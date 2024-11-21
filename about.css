@@ -1,0 +1,47 @@
+body{
+	font-family: sans-serif;
+	margin: 100px 0 0 0;
+	padding: 0;
+
+}
+
+.Column{
+	float: left;
+	width: 40%;
+}
+.fact{
+	color: hotpink;
+	font-size: 50px;
+}
+.row{
+	display: flex;
+	justify-content: space between;
+	gap: 50px;
+}
+.about-section {
+	padding: 50px;
+	text-align: center;
+	background-color: white;
+	color: black;
+}
+.container{
+	padding top: 0;
+	padding left: 16;
+	padding-bottom: 0;
+	padding-right: 16;
+}
+.column,.row{
+	border: 2px solid;
+	
+}
+.column{
+	padding: 15px 20px;
+}
+image{
+	width: 30;
+	height: auto;
+}
+
+
+
+
